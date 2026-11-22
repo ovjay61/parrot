@@ -7,11 +7,11 @@
 **仿 iOS 液态玻璃私人影库播放器 · 支持 Emby / Jellyfin / 飞牛影视**
 
 [![Official Website](https://img.shields.io/badge/Website-parrotplayer.store-4ecdc4?style=for-the-badge)](https://parrotplayer.store/)
+[![GitHub](https://img.shields.io/badge/GitHub-ovjay61%2Fparrot-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovjay61/parrot)
+[![Telegram](https://img.shields.io/badge/Telegram-交流频道-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/parrotdownload)
 [![Parrot Pro](https://img.shields.io/badge/Parrot%20Pro-激活中心-f97316?style=for-the-badge)](https://parrotplayer.store/buy)
-[![Android](https://img.shields.io/badge/Platform-Android%208.1%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://parrotplayer.store/)
-[![Engine](https://img.shields.io/badge/Engine-MPV%20%2B%20Media3-38bdf8?style=for-the-badge)](https://parrotplayer.store/)
 
-[官方网站](https://parrotplayer.store/) · [交互动画演示](https://parrotplayer.store/#videos) · [获取 Parrot Pro](https://parrotplayer.store/buy) · [联系作者](mailto:oxarewidolad03@gmail.com)
+[官方网站](https://parrotplayer.store/) · [交互动画演示](https://parrotplayer.store/#videos) · [GitHub 项目](https://github.com/ovjay61/parrot) · [Telegram 交流频道](https://t.me/parrotdownload) · [获取 Parrot Pro](https://parrotplayer.store/buy) · [联系作者](mailto:oxarewidolad03@gmail.com)
 
 </div>
 
@@ -97,16 +97,18 @@
 ## 📥 下载与安装
 
 - **系统要求**：Android 8.1（API 27）及以上，`arm64-v8a` 架构
-- **获取最新安装包**：前往本仓库 [Releases](../../releases) 页面下载最新 `.apk` 安装包（或在官网查看最新动态）
+- **获取最新安装包**：前往 [GitHub Releases](https://github.com/ovjay61/parrot/releases) 或 [Telegram 交流频道](https://t.me/parrotdownload) 下载最新 `.apk` 安装包
 
 ---
 
-## 📮 联系与反馈
+## 📮 联系与社区
 
 - **官方网站**：[https://parrotplayer.store](https://parrotplayer.store/)
-- **Pro 激活中心**：[https://parrotplayer.store/buy](https://parrotplayer.store/buy)
+- **GitHub 项目**：[https://github.com/ovjay61/parrot](https://github.com/ovjay61/parrot)
+- **Telegram 交流频道**：[https://t.me/parrotdownload](https://t.me/parrotdownload)
 - **联系作者**：[oxarewidolad03@gmail.com](mailto:oxarewidolad03@gmail.com)
-- **问题反馈**：欢迎在 GitHub 提交 [Issues](../../issues)
+- **Pro 激活中心**：[https://parrotplayer.store/buy](https://parrotplayer.store/buy)
+- **问题反馈**：欢迎在 GitHub 提交 [Issues](https://github.com/ovjay61/parrot/issues)
 
 ---
 
